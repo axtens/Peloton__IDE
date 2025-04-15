@@ -1,8 +1,8 @@
 namespace Peloton_IDE.Presentation
 {
-    public sealed partial class Interpreter : ContentDialog
+    public sealed partial class InterpreterSelectionDialog : ContentDialog
     {
-        public Interpreter()
+        public InterpreterSelectionDialog()
         {
             this.InitializeComponent();
         }
