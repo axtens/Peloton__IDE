@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "Peloton_IDE",
+  "display": "standalone",
+  "name": "Peloton_IDE",
+  "short_name": "Peloton_IDE",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}

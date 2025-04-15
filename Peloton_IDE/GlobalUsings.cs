@@ -1,0 +1,15 @@
+﻿global using System.Collections.Immutable;
+global using CommunityToolkit.Mvvm.ComponentModel;
+global using CommunityToolkit.Mvvm.Input;
+global using Microsoft.Extensions.DependencyInjection;
+global using Microsoft.Extensions.Hosting;
+global using Microsoft.Extensions.Localization;
+global using Microsoft.Extensions.Logging;
+global using Microsoft.Extensions.Options;
+global using Peloton_IDE.DataContracts;
+global using Peloton_IDE.DataContracts.Serialization;
+global using Peloton_IDE.Models;
+global using Peloton_IDE.Presentation;
+global using Peloton_IDE.Services.Caching;
+global using Peloton_IDE.Services.Endpoints;
+global using ApplicationExecutionState = Windows.ApplicationModel.Activation.ApplicationExecutionState;

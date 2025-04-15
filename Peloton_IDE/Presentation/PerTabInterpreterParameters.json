@@ -1,0 +1,320 @@
+{
+  "pOps.After": {
+    "Defined": false,
+    "Key": "+",
+    "Value": "",
+    "Internal": false
+  },
+  "pOps.Assert": {
+    "Defined": false,
+    "Key": "A",
+    "Value": false,
+    "Internal": false
+  },
+  "pOps.Base": {
+    "Defined": false,
+    "Key": "B",
+    "Value": "",
+    "Internal": false
+  },
+  "pOps.Before": {
+    "Defined": false,
+    "Key": "-",
+    "Value": "",
+    "Internal": false
+  },
+  "pOps.Brace": {
+    "Defined": false,
+    "Key": "{",
+    "Value": false,
+    "Internal": false
+  },
+  "pOps.Brackets": {
+    "Defined": false,
+    "Key": "(",
+    "Value": false,
+    "Internal": false
+  },
+  "pOps.Check": {
+    "Defined": false,
+    "Key": "C",
+    "Value": false,
+    "Internal": false
+  },
+  "pOps.Comma": {
+    "Defined": false,
+    "Key": ",",
+    "Value": false,
+    "Internal": false
+  },
+  "pOps.Debug": {
+    "Defined": false,
+    "Key": "D",
+    "Value": false,
+    "Internal": false
+  },
+  "pOps.Environment": {
+    "Defined": false,
+    "Key": "E",
+    "Value": "",
+    "Internal": false
+  },
+  "pOps.Exclaim": {
+    "Defined": false,
+    "Key": "!",
+    "Value": false,
+    "Internal": false
+  },
+  "pOps.eXecute": {
+    "Defined": false,
+    "Key": "X",
+    "Value": "",
+    "Internal": false
+  },
+  "pOps.Filespec": {
+    "Defined": false,
+    "Key": "F",
+    "Value": "",
+    "Internal": false
+  },
+  "pOps.Get": {
+    "Defined": false,
+    "Key": "G",
+    "Value": "",
+    "Internal": false
+  },
+  "pOps.Help": {
+    "Defined": false,
+    "Key": "?",
+    "Value": false,
+    "Internal": false
+  },
+  "pOps.Host": {
+    "Defined": false,
+    "Key": "H",
+    "Value": -1,
+    "Internal": false
+  },
+  "pOps.Input": {
+    "Defined": false,
+    "Key": "I",
+    "Value": "",
+    "Internal": false
+  },
+  "pOps.Jump": {
+    "Defined": false,
+    "Key": "J",
+    "Value": -1,
+    "Internal": false
+  },
+  "pOps.Keyword": {
+    "Defined": false,
+    "Key": "K",
+    "Value": "",
+    "Internal": false
+  },
+  "pOps.Language": {
+    "Defined": true,
+    "Key": "L",
+    "Value": 0,
+    "Internal": false
+  },
+  "pOps.Listen": {
+    "Defined": false,
+    "Key": ".",
+    "Value": -1,
+    "Internal": false
+  },
+  "pOps.Literate": {
+    "Defined": false,
+    "Key": "*",
+    "Value": false,
+    "Internal": false
+  },
+  "pOps.Memory": {
+    "Defined": false,
+    "Key": "M",
+    "Value": "",
+    "Internal": false
+  },
+  "pOps.Nanny": {
+    "Defined": false,
+    "Key": "N",
+    "Value": false,
+    "Internal": false
+  },
+  "pOps.Override": {
+    "Defined": true,
+    "Key": "O",
+    "Value": false,
+    "Internal": false
+  },
+  "pOps.PreventUnicode": {
+    "Defined": false,
+    "Key": "$",
+    "Value": false,
+    "Internal": false
+  },
+  "pOps.Project": {
+    "Defined": false,
+    "Key": "P",
+    "Value": "",
+    "Internal": false
+  },
+  "pOps.Quietude": {
+    "Defined": true,
+    "Key": "Q",
+    "Value": 2,
+    "Internal": false
+  },
+  "pOps.Recordset": {
+    "Defined": false,
+    "Key": "R",
+    "Value": "",
+    "Internal": false
+  },
+  "pOps.Spaced": {
+    "Defined": false,
+    "Key": "_",
+    "Value": false,
+    "Internal": false
+  },
+  "pOps.Structure": {
+    "Defined": false,
+    "Key": "S",
+    "Value": "",
+    "Internal": false
+  },
+  "pOps.Transput": {
+    "Defined": true,
+    "Key": "T",
+    "Value": 2,
+    "Internal": false
+  },
+  "pOps.Use": {
+    "Defined": false,
+    "Key": "U",
+    "Value": "",
+    "Internal": false
+  },
+  "pOps.VariableLength": {
+    "Defined": false,
+    "Key": "#",
+    "Value": false,
+    "Internal": false
+  },
+  "pOps.Variables": {
+    "Defined": false,
+    "Key": "V",
+    "Value": "",
+    "Internal": false
+  },
+  "pOps.Workspace": {
+    "Defined": false,
+    "Key": "W",
+    "Value": "",
+    "Internal": false
+  },
+  "pOps.Yonder": {
+    "Defined": false,
+    "Key": "Y",
+    "Value": -1,
+    "Internal": false
+  },
+  "pOps.Zone": {
+    "Defined": false,
+    "Key": "Z",
+    "Value": "",
+    "Internal": false
+  },
+  "pOps.Padding": {
+    "Defined": true,
+    "Key": "`",
+    "Value": false,
+    "Internal": false
+  },
+  "ideOps.Timeout": {
+    "Defined": true,
+    "Key": "~",
+    "Value": 0,
+    "Internal": true
+  },
+  "outputOps.ActiveRenderers": {
+    "Defined": true,
+    "Key": "r",
+    "Value": "0,3",
+    "Internal": true
+  },
+  "outputOps.TappedRenderer": {
+    "Defined": true,
+    "Key": "t",
+    "Value": 3,
+    "Internal": true
+  },
+  "ideOps.Engine": {
+    "Defined": true,
+    "Key": "e",
+    "Value": 3,
+    "Internal": true
+  },
+  "ideOps.FontSize": {
+    "Defined": true,
+    "Key": "f",
+    "Value": 12.0,
+    "Internal": true
+  },
+  "ideOps.DataFolder": {
+    "Defined": true,
+    "Key": "d",
+    "Value": "c:\\peloton\\data",
+    "Internal": true
+  },
+  "ideOps.CodeFolder": {
+    "Defined": true,
+    "Key": "c",
+    "Value": "c:\\peloton\\code",
+    "Internal": true
+  },
+  "ideOps.findText": {
+    "Defined": true,
+    "Key": "ft",
+    "Value": "",
+    "Internal": true
+  },
+  "ideOps.findWhole": {
+    "Defined": true,
+    "Key": "fw",
+    "Value": false,
+    "Internal": true
+  },
+  "ideOps.findCase": {
+    "Defined": true,
+    "Key": "fc",
+    "Value": false,
+    "Internal": true
+  },
+  "ideOps.findSelection": {
+    "Defined": true,
+    "Key": "fs",
+    "Value": false,
+    "Internal": true
+  },
+  "ideOps.replaceText": {
+    "Defined": true,
+    "Key": "rt",
+    "Value": "",
+    "Internal": true
+  },
+  "ideOps.findLastFound": {
+    "Defined": true,
+    "Key": "lf",
+    "Value": -1,
+    "Internal": true
+  },
+  "ideOps.findWrapped": {
+    "Defined": true,
+    "Key": "fw",
+    "Value": false,
+    "Internal": true
+  }
+}
