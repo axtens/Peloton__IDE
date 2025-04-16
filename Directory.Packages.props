@@ -6,6 +6,7 @@
     See https://aka.platform.uno/using-uno-sdk#implicit-packages for more information regarding the Implicit Packages.
   -->
   <ItemGroup>
+    <PackageVersion Include="ClosedXML" Version="0.104.2" />
     <PackageVersion Include="DocumentFormat.OpenXml" Version="3.3.0" />
     <PackageVersion Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageVersion Include="Swashbuckle.AspNetCore" Version="6.5.0" />

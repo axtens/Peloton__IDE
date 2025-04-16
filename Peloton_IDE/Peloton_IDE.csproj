@@ -1,4 +1,4 @@
-<Project Sdk="Uno.Sdk">
+﻿<Project Sdk="Uno.Sdk">
   <PropertyGroup>
     <!-- <TargetFrameworks>net8.0-android;net8.0-ios;net8.0-maccatalyst;net8.0-windows10.0.26100;net8.0-browserwasm;net8.0-desktop</TargetFrameworks> -->
     <TargetFrameworks>net8.0-windows10.0.26100</TargetFrameworks>
@@ -53,12 +53,19 @@
     <None Remove="Presentation\Presentation.7z" />
   </ItemGroup>
   <ItemGroup>
+    <PackageReference Include="ClosedXML" />
     <PackageReference Include="DocumentFormat.OpenXml" />
     <PackageReference Include="Newtonsoft.Json" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Peloton_IDE.DataContracts\Peloton_IDE.DataContracts.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="EncodingChecker">
+      <HintPath>..\..\PelotonIDE-U5\EncodingChecker\bin\Debug\net8.0\EncodingChecker.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>

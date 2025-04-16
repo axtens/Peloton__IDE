@@ -41,7 +41,7 @@ public partial class CustomRichEditBox : RichEditBox
         ITextSelection selection = me.Document.Selection;
         selection.GetText(TextGetOptions.None, out string text);
         Telemetry.Transmit(text);
-        selection.SelectOrDefault(x => x);
+        //selection.SelectOrDefault(x => x);
         int caretPosition = selection.StartPosition;
         int start = selection.StartPosition;
         int end = selection.EndPosition;
